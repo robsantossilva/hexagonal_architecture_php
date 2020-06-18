@@ -1,0 +1,14 @@
+{
+    "name": "robson/hexagonal_architecture_php",
+    "authors": [
+        {
+            "name": "Robson Silva",
+            "email": "robsantossilva@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"Sfweb\\": "src/"}
+    }
+}
